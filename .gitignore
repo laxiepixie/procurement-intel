@@ -1,0 +1,18 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+env/
+
+# Data & Documents
+*.pdf
+*.csv
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+"@ > .gitignore
